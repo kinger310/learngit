@@ -1,2 +1,3 @@
 # -*- coding:utf-8 -*-
-print('hello,world')
+#!/usr/bin/env
+print('hello,world!')
